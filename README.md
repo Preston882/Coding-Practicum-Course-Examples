@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Preston882/Coding-Practicum-Course-Examples/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Preston882/Coding-Practicum-Course-Examples/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>• TribeBytes</h1>
+  '''markdown
+  I decided to help improve the current Dobyns-Bennett Tribe-Bytes website by not only inlcuding my own ideas but to also work with real time developers.
+  '''
+<h1>• Vending Machine</h1>
+  '''markdown
+  I am also programming a Vending machine for the school Dobyns-Bennett. I will make files on this repository regarding what I've done and what I need to do.
+  '''
+<h1>• MAD</h1>
+ '''markdown
+  A separate class called "Mobile app Development" I will be creating mobile apps for developers to communicate with each other, also giving tips and votes on developer projects.
+'''
+<h1>• Remote work</h1>
+  '''markdown
+    During this time, I not only got the opportunity to work and develop my sites/projects from home, but if I had problems I had the ability to come in and ask for that help.
+  '''
+<h1>• Season Tickets app</h1>
+  '''markdown
+    As I looked more into coding/developing, I was given the opportunity to develop a seasons tickets app for dobyns-bennett
+  '''
+<h1>• Developer Blog</h1>
+  '''markdown
+    Once again learning the beginning's of how to be a successful developer, I created a developer blog for the progress I made for that current class. I then took a break from it due to Covid-19 issues and virtual work complications, however, I have recently returned to it as it will be my Online Portfolio.
+  '''
