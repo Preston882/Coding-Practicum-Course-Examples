@@ -1,4 +1,4 @@
-<h1>• TribeBytes</h1>
+<h1>• [TribeBytes](/TribeBytes.md)</h1>
   <p> 
   I decided to help improve the current Dobyns-Bennett Tribe-Bytes website by not only inlcuding my own ideas but to also work with real time developers.
 </p>
