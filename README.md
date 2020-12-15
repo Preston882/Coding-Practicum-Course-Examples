@@ -1,4 +1,4 @@
-##[• TribeBytes](TribeBytes)
+<h1>[• TribeBytes](TribeBytes)</h1>
   
 > I decided to help improve the current Dobyns-Bennett Tribe-Bytes website by not only inlcuding my own ideas but to also work with real time developers.
 <h1>• Vending Machine</h1>
