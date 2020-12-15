@@ -1,4 +1,4 @@
-<h1>• [TribeBytes](https://preston882.github.io/Coding-Practicum-Course-Examples/TribeBytes)</h1>
+<h1>•[ TribeBytes ] (https://preston882.github.io/Coding-Practicum-Course-Examples/TribeBytes)</h1>
 > I decided to help improve the current Dobyns-Bennett Tribe-Bytes website by not only inlcuding my own ideas but to also work with real time developers.
 <h1>• Vending Machine</h1>
 > I am also programming a Vending machine for the school Dobyns-Bennett. I will make files on this repository regarding what I've done and what I need to do.
